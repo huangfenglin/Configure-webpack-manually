@@ -15,5 +15,7 @@ new Vue({
   }
 })
 document.writeln('<img src="./img/test.jpg">')
+console.log("123");
+
 
 
